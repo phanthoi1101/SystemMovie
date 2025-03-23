@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 ### ⚙️ Installation
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/your-username/cinema-management.git](https://github.com/phanthoi1101/SystemMovie.git)
+   https://github.com/phanthoi1101/SystemMovie.git
    ```
 2. **Set up the SqlSever database:**
    - Create a Sql database named `cinema_management` and import the provided SQL script.
