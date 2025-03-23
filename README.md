@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
    https://github.com/phanthoi1101/SystemMovie.git
    ```
 2. **Set up the SqlSever database:**
-   - Create a Sql database named `cinema_management` and import the provided SQL script.
+   - Create a Sql database named `QLRapPhim` and import the provided SQL script.
    - Update `db.properties` in `src/main/resources/` with your database credentials.
 3. **Build and deploy the project on Apache Tomcat.**
 4. **Access the application via:** `http://localhost:8080/SystemMovie/`.
